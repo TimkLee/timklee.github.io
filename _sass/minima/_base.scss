@@ -60,9 +60,37 @@ main {
 
 
 
+
+
+
+
+figure {
+  display: inline-block;
+  // display:block;
+  border: 1px dotted rgb(255, 255, 255);
+  margin: 20px; /* adjust as needed */
+  // margin-right: auto;
+  // margin-left: auto;
+}
+figure img {
+  vertical-align: top;
+  display: inline-block;
+  // display: block;
+  max-width: 100%;
+}
+figure figcaption {
+  border: 1px dotted rgb(255, 255, 255);
+  text-align: center;
+  font-size: $small-font-size;
+}
+
+
+
+
 /**
  * Images
  */
+
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -73,13 +101,15 @@ img {
 /**
  * Figures
  */
-figure > img {
-  display: block;
-}
 
-figcaption {
-  font-size: $small-font-size;
-}
+// figure > img {
+//   // display: block;
+//   display: inline-block;
+// }
+
+// figcaption {
+//   font-size: $small-font-size;
+// }
 
 
 
@@ -121,7 +151,7 @@ a {
 
   &:hover {
     color: $link-hover-color;
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   .social-media-list &:hover {
