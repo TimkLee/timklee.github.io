@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: page
 title: Robotic Mirror Grinding and Polishing Machine
 permalink: /projects/mirror_polish
 ---
 
 
-
+<div class="parent">
 <figure>
     <img src="/images/polish_system.png" alt="polish_system" class="postimg"/>
     <figcaption>Robotic Grinding/Polishing System</figcaption>
 </figure>
+</div>
 
 <b>Type:</b> Industry Project 
 
@@ -32,15 +33,19 @@ permalink: /projects/mirror_polish
 - Designed and conducted tests to determine the performance of the system. 
 - Designed and constructed a simplified coordinate-measuring machine using the robot arm to measure the accuracy of the generated surface.
 
+<div class="parent">
 <figure>
     <img src="/images/polish_process.png" alt="polish_process.png" class="postimg"/>
     <figcaption>Mirror Blank Robotic Polishing Experiment </figcaption>
 </figure>
+</div>
 
+<div class="parent">
 <figure>
     <img src="/images/polish_mirror_blank.png" alt="polish_mirror_blank" class="postimg"/>
     <figcaption>0.8 m Light Weight Telescope Mirror Blank</figcaption>
 </figure>
+</div>
 
 
 

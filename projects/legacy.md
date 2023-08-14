@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: page
 title: Legacy Bicycle
 permalink: /projects/legacy
 ---
 
-
+<div class="parent">
 <figure>
     <img src="/images/legacy.png" alt="legacy" class="postimg"/>
     <figcaption>“Head” of the Legacy Bicycle </figcaption>
 </figure>
- 
+ </div>
+
 <b>Type:</b> EECE 518 (Human Interface Technologies) Project 
 
 <b>Year:</b> 2015
@@ -18,7 +19,7 @@ permalink: /projects/legacy
 
 <b>Key Skills:</b> Mechatronic System Design; C++; Arduino; Android Studio
 
-<b>Additional Information:</b> [Sara Maia's Amazing Personal Website](https://www.saramaia.me/legacy)
+<b>Additional Information:</b> [Sara Maia's Personal Website](https://www.saramaia.me/legacy)
 
 <b>Objectives:</b>
 - To investigate the elements that drive human being to bond to a device. 

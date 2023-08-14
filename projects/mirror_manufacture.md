@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: page
 title: Large Telescope Manufacturing Process
 permalink: /projects/mirror_manufacture
 ---
 
-
+<div class="parent">
 <figure>
     <img src="/images/slumping_furnace_design.png" alt="slumping_furnace_design" class="postimg"/>
     <figcaption>Slumping Furnace Design Model</figcaption>
 </figure>
-
+</div>
 
 <b>Type:</b> Master’s Research Project
 
@@ -33,17 +33,19 @@ permalink: /projects/mirror_manufacture
 - Specified the components required based on heat transfer calculation, components limitation, strength calculation, and the designed measurement method. 
 - Presented the design for the circuitry and outlined a theoretical method of controlling the system. • Proposed an alternative manufacturing procedures based on test results and updated requirements. Created a general concept of how the new system would be constructed.
 
-
+<div class="parent">
 <figure>
     <img src="/images/slumping_procedure.png" alt="slumping_procedure" class="postimg"/>
     <figcaption>Proposed Forge Slumping Procedure</figcaption>
 </figure>
+</div>
 
+<div class="parent">
 <figure>
     <img src="/images/slumping_test_stand.png" alt="slumping_test_stand" class="postimg"/>
     <figcaption>Slumped Glass with Test Stand</figcaption>
 </figure>
-
+</div>
 
 
 

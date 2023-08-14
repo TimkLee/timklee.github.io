@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Snowbot
 permalink: /projects/snowbot
 ---
@@ -15,10 +15,12 @@ permalink: /projects/snowbot
    <figcaption class="figure-caption text-center">Group Photo of IARRC 2009 Participants</figcaption>
 </figure> -->
 
+<div class="parent">
 <figure>
     <img src="/images/snowbot_group.png" alt="snowbot_group" class="postimg" />
     <figcaption>Group Photo of IARRC 2009 Participants</figcaption>
 </figure>
+</div>
 
 <b>Type:</b> University Student Team (Thunderbird Robotics) Project
 
@@ -42,7 +44,9 @@ permalink: /projects/snowbot
 - Assisted in programming the custom microcontroller designed and constructed by another team member using C. 
 - Modified the base AI program developed by another team member using the onboard Ubuntu Linux laptop.
 
+<div class="parent">
 <figure>
     <img src="/images/snowbot_equipment.png" alt="snowbot_equipment" class="postimg"/>
     <figcaption>Robots and Equipment</figcaption>
 </figure>
+</div>

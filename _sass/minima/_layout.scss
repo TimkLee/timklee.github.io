@@ -12,8 +12,9 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(2.2);
+
+  font-weight: 500;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -29,6 +30,7 @@
 }
 
 .site-nav {
+  @include relative-font-size(1.5);
   position: absolute;
   top: 9px;
   right: $spacing-unit * .5;
@@ -370,5 +372,9 @@
   // width: 500px;
   // height: 500px;
   border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 
 }

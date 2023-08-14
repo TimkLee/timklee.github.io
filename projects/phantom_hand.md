@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: page
 title: Phantom Hand - Glove-Controlled Animatronic Hand
 permalink: /projects/phantom_hand
 ---
 
 
-
+<div class="parent">
 <figure>
     <img src="/images/phantom_hand.png" alt="phantom_hand" class="postimg"/>
     <figcaption>Phantom Hand Components</figcaption>
 </figure>
+</div>
 
 <b>Type:</b> MECH 423 (Mechatronic Product Design) Project 
 
@@ -34,11 +35,12 @@ permalink: /projects/phantom_hand
 - Constructed and assembled circuitry to connect all the components. 
 - Programmed a C# application that communicates with the micro-controller and plays the corresponding sound note when the signal is detected.
 
+<div class="parent">
 <figure>
     <img src="/images/phantom_hand_schematic.png" alt="snowbot_equipment" />
     <figcaption>Design Schematic</figcaption>
 </figure>
-
+</div>
 
 
 

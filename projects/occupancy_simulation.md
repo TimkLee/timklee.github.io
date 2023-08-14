@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: page
 title: Room Occupancy Simulator Box
 permalink: /projects/occupancy_simulation
 ---
 
 
-
+<div class="parent">
 <figure>
     <img src="/images/room_occupancy.png" alt="room_occupancy" class="postimg"/>
     <figcaption>Occupancy Simulator Control Unit</figcaption>
 </figure>
-
+</div>
 
 
 <b>Type:</b> Industry Research Project 
@@ -27,7 +27,8 @@ permalink: /projects/occupancy_simulation
 
 <b>Summary: </b>
 <br>Modified the existing design, purchased the necessary components, assembled, programmed, and tested the system. The system mainly consists of a water reservoir with ultrasonic humidifier, heat lamps, a carbon dioxide dispenser, and a peristaltic pump. All the components are connected to a micro-controller that communicates with a control software on a laptop. 
-- Reviewed and modified the initial design and purchased the additional components required. • Planned, assembled and connected all the components into a metal box. 
+- Reviewed and modified the initial design and purchased the additional components required. 
+- Planned, assembled and connected all the components into a metal box. 
 - Programmed the ADAM micro-controller. Communication between the different devices uses the RS 232 and RS-485 protocol. 
 - Programmed the control software using Agilent Vee. 
 - Prepared several test plans and created a C# program that communicates with a digital scale to test and debug the system.

@@ -1,14 +1,15 @@
 ---
-layout: post
+layout: page
 title: Projects at Dynamic Attractions
 permalink: /projects/dynamic_attractions
 ---
 
-
+<div class="parent">
 <figure>
     <img src="/images/dynamic_batman.png" alt="dynamic_batman" class="postimg"/>
     <figcaption><a href="https://dynamicattractions.com/2019/09/27/batman-wins-duo-for-dynamic/">Example Project -  Robotic Ride System - Batman Knight Flight</a></figcaption>
 </figure>
+</div>
 
 <a href="https://dynamicattractions.com/2019/09/27/batman-wins-duo-for-dynamic/">
 

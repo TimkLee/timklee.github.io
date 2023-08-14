@@ -62,7 +62,11 @@ main {
 
 
 
-
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 figure {
   display: inline-block;
@@ -77,6 +81,10 @@ figure img {
   display: inline-block;
   // display: block;
   max-width: 100%;
+
+  // margin-left: auto;
+  // margin-right: auto;
+
 }
 figure figcaption {
   border: 1px dotted rgb(255, 255, 255);

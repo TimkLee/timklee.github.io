@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: page
 title: OmKnee Project - Semi-Automated Bone Sculpting Device
 permalink: /projects/omknee
 ---
 
 
-
+<div class="parent">
 <figure>
     <img src="/images/omknee.png" alt="omknee" class="postimg"/>
     <figcaption>Robotic Knee Sugery Assistant</figcaption>
 </figure>
+</div>
 
 <b>Type:</b> MECH 458 (Mechatronics Design Project) Project 
 
