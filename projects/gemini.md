@@ -22,7 +22,7 @@ permalink: /projects/gemini
 
 <b>Key Skills:</b> Python; Deep Reinforcement Learning; Machine Learning Pipeline; Machine Learning Libraries
 
-<b>Additional Information:</b> [Project Repository](https://github.com/TimkLee/IFT6759), [Project Presentation](https://alexhernandezgarcia.github.io/assets/pdf/mlprojects22/imageaugmentation.pdf)
+<b>Additional Information:</b> [Course Website](https://www.cs.mcgill.ca/~dprecup/courses/rl.html)
 
 <b>Objectives:</b>
 - Develop a framework that promotes mindful and intentional exploration and is adaptable to different environment.
