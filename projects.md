@@ -45,6 +45,10 @@ lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit -->
 <!-- [Projects at Dynamic Attractions](/projects/dynamic_attractions) -->
 
 
+ <font size="3">
+I have worked on a wide range of projects including designing, testing and managing multimillion dollar rollercoaster/robotics projects to research projects in machine learning. Each project page describes the project objectives, key skills necessary for the project and specific tasks that I performed.
+  </font>
+
 <div class="grid-container">
 
 <div class="grid-item">
