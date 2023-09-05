@@ -14,7 +14,7 @@ layout: home
 
   <h1> Salutations! </h1>
   <font size="3">
-  I (he/him/il) am a Mechatronics and Machine Learning engineer with with diverse experiences and interests. This website presents some of the projects I have worked on in the past. Please refer to my <a href="https://www.linkedin.com/in/timothy-ko-lee">Linkedin</a> page for more work experience related information.
+  I (he/him/il) am a Mechatronics and Machine Learning engineer with diverse experiences and interests. This website presents some of the projects I have worked on in the past. Please refer to my <a href="https://www.linkedin.com/in/timothy-ko-lee">Linkedin</a> page for more work experience related information.
   </font>
   <br>
   <center><h2><b><a href="/projects/">View Projects</a></b></h2></center>
